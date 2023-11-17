@@ -15700,7 +15700,7 @@ span.flatpickr-weekday {
   opacity: 0.2;
 }
 [data-bs-theme=dark] .layout-wrapper.landing footer.bg-dark {
-  background-color: var(--vz-secondary-bg) !important;
+  background-color: rgba(12, 24, 42, 1) !important;
 }
 [data-bs-theme=dark] .navbar-light.is-sticky .navbar-brand .card-logo-dark {
   display: none;
@@ -16207,8 +16207,8 @@ span.flatpickr-weekday {
   position: absolute;
   bottom: -18px;
   right: -35px;
-}order-radius: 0.25rem;
 }
+
 @media (max-width: 576.98px) {
   .about-img-section::before {
     left: 20px;

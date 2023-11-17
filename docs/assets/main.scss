@@ -3,3 +3,25 @@
 ---
 
 // @import "minima";
+
+.custom-footer {
+  background-color: rgba(12, 24, 42, 1);
+}
+
+:root {
+  --vz-heading-color: rgba(14, 27, 46, 1) !important;
+}
+
+i {
+  color: rgba(107, 209, 232, 1) !important;
+  z-index: 999;
+}
+
+.icon-effect::before {
+  background-color: rgba(213, 245, 252, 1) !important;
+  z-index: 0;
+}
+
+.heading-text {
+  color: rgba(19, 48, 128, 1);
+}

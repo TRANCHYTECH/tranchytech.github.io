@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: TRANCHY TECH
+email: info@tranchy.tech
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  tranchy.tech is a mission-driven company, focused on our guiding principles to create and development products to enhance life quality of humans.
+  As we work toward our mission, we prioritize creating a community where anyone can ask and find quality answers to their issues from experts in any field. You can also get personalized, one-on-one help with your questions quickly from the people who know best.
+  Besides that, we also provide intelligent solutions that solve business challenges and deliver successfully the needs of our partners.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://tranchy.tech" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: tranchy.tech
+github_username: tranchy.tech
 
 # Build settings
 theme: minima
@@ -53,3 +53,45 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+team_members:
+  - name: "Tau. Dang"
+    avatar: "assets/images/users/avatar-tau.png"
+    role: "Developer"
+  - name: "Vu. Lang"
+    avatar: "assets/images/users/avatar-vu.png"
+    role: "Developer"
+  - name: "Vui. Nguyen"
+    avatar: "assets/images/users/avatar-vui.png"
+    role: "QC/QA"
+  - name: "Tram. Ha"
+    avatar: "assets/images/users/avatar-tram.png"
+    role: "Business Analyst"
+  - name: "Hieu. Doan"
+    avatar: "assets/images/users/avatar-hieu.png"
+    role: "Product Designer"
+
+tranchy_one_values:
+  - value: "Reliability"
+    description: "Experts and businesses are curated with international evaluation standards"
+    icon: "ri-service-line"
+
+  - value: "Privacy & Security"
+    description: "Protecting privacy for conversations as well as your identity"
+    icon: "ri-shield-check-line"
+
+  - value: "Fast Delivery"
+    description: "Filter and send your questions to experts as quickly as possible thanks to optimal algorithms"
+    icon: "ri-speed-line"
+
+  - value: "Valuable"
+    description: "Search for different opinions from all tranchy one users"
+    icon: "ri-medal-2-line"
+
+  - value: "Flexible cost"
+    description: "Provide various options for the form and level of cost payment for each request"
+    icon: "ri-bank-card-2-line"
+
+  - value: "AI Assistant"
+    description: "An intelligent assistant with self-learning and evolving capabilities as it accompanies you over time"
+    icon: "ri-robot-line"
