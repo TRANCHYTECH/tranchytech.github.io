@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <body>
-    <div class="layout-wrapper">
-        {{ content }}
-  </div>
 
+  {%- include head.html -%}
+
+  <body>
+    <div class="layout-wrapper container">
+      <div class="row">
+        <div class="col p-4">{{ content }}</div>
+      </div> 
+  </div>
+</body>
 </html>

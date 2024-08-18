@@ -4,7 +4,7 @@ title: Company profile
 permalink: /shared-profile/
 ---
 
-## Company Overview
+### Company Overview
 
 We are a small company founded by experienced professionals who have worked in reputable international companies with offices in Vietnam.
 
@@ -14,13 +14,13 @@ Our team of high-caliber programmers is carefully selected based on technical ex
 
 In addition to our talented team, we employ agile product development and management processes. This approach optimizes costs, addresses immediate challenges, and ensures timely outcomes aligned with your expectations.
 
-## Service Offerings
+### Service Offerings
 
 Our company provides software development services, from gathering requirements, analyzing, offering technology solutions, to development, testing, and maintenance.
 
 The areas in which we have extensive experience are: education, healthcare, media.
 
-## Technology Stack
+### Technology Stack
 
 **Frontend**: Angular, React.
 
@@ -34,10 +34,12 @@ The areas in which we have extensive experience are: education, healthcare, medi
 
 **Infrastructure**: Azure App Service, Kubernetes, Azure DevOps.
 
-## Contact Information
+### Contact Information
 
-Website: [https://tranchy.tech](https://tranchy.tech)
+![Tranchy Tech](/assets/images/logo-dark.svg)
 
-Github: [https://github.com/TRANCHYTECH](https://github.com/TRANCHYTECH)
+- Website: [https://tranchy.tech](https://tranchy.tech)
 
-Email: [info@tranchy.tech](mailto:info@tranchy.tech)
+- Github: [https://github.com/TRANCHYTECH](https://github.com/TRANCHYTECH)
+
+- Email: [info@tranchy.tech](mailto:info@tranchy.tech)
